@@ -77,7 +77,7 @@ while True:
     elif choice == "12":
         import webbrowser
         Write.Print("\n    [+] Открываю документацию в браузере...\n", Colors.cyan_to_blue, interval=0.0005)
-        webbrowser.open('https://github.com/klintxxxgod/TelegramToolsKit/wiki')
+        webbrowser.open('https://github.com/klintxxxgod/TeleTool')
         Write.Print("\n    Нажмите Enter для продолжения...", Colors.blue_to_cyan, interval=0.0005)
         input()
     elif choice == "13":
