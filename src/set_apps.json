@@ -1,0 +1,102 @@
+[
+    {
+        "device_model": "Xiaomi Redmi Note 11",
+        "system_version": "11.0.4",
+        "app_version": "10.3 (30)"
+    },
+    {
+        "device_model": "Samsung Galaxy S22 Ultra", 
+        "system_version": "13.1",
+        "app_version": "10.5 (32)"
+    },
+    {
+        "device_model": "iPhone 14 Pro Max",
+        "system_version": "16.5", 
+        "app_version": "11.0 (34)"
+    },
+    {
+        "device_model": "Huawei Mate 50 Pro",
+        "system_version": "10.2.3",
+        "app_version": "9.7 (29)"
+    },
+    {
+        "device_model": "OnePlus Nord 2T",
+        "system_version": "12.1",
+        "app_version": "10.6 (31)"
+    },
+    {
+        "device_model": "Realme GT 2",
+        "system_version": "12.0",
+        "app_version": "9.8 (29)"
+    },
+    {
+        "device_model": "Google Pixel 6a",
+        "system_version": "13.4",
+        "app_version": "11.2 (33)"
+    },
+    {
+        "device_model": "Sony Xperia 1 IV",
+        "system_version": "12.0.2",
+        "app_version": "10.1 (30)"
+    },
+    {
+        "device_model": "Vivo Y76 5G",
+        "system_version": "11.9.0",
+        "app_version": "9.9 (30)"
+    },
+    {
+        "device_model": "Oppo Reno 8 Pro",
+        "system_version": "12.5",
+        "app_version": "10.8 (32)"
+    },
+    {
+        "device_model": "Samsung Galaxy A52",
+        "system_version": "13.2",
+        "app_version": "10.0 (30)"
+    },
+    {
+        "device_model": "Xiaomi Poco F4",
+        "system_version": "12.0.5",
+        "app_version": "10.2 (31)"
+    },
+    {
+        "device_model": "iPhone XR",
+        "system_version": "15.4",
+        "app_version": "9.9 (29)"
+    },
+    {
+        "device_model": "Nokia G50",
+        "system_version": "11.0",
+        "app_version": "9.7 (28)"
+    },
+    {
+        "device_model": "Motorola Edge 30",
+        "system_version": "13.0.1",
+        "app_version": "10.3 (30)"
+    },
+    {
+        "device_model": "Asus ROG Phone 6",
+        "system_version": "12.4",
+        "app_version": "11.0 (33)"
+    },
+    {
+        "device_model": "Samsung Galaxy Z Flip 4",
+        "system_version": "13.0",
+        "app_version": "10.7 (32)"
+    },
+    {
+        "device_model": "iPhone 11",
+        "system_version": "16.0",
+        "app_version": "10.1 (31)"
+    },
+    {
+        "device_model": "Huawei P40",
+        "system_version": "10.3",
+        "app_version": "9.6 (27)"
+    },
+    {
+        "device_model": "Realme Narzo 50",
+        "system_version": "11.5",
+        "app_version": "9.5 (26)"
+    }
+]
