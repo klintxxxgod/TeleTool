@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+telethon==1.38.1
+pystyle==2.9
+colorama==0.4.6
+opentele @ git+https://github.com/thedemons/opentele.git@1a6f0816eac47ff3cb907af72ed9f8cbbbe8fba0
+qrcode==7.4.2
+=======
 telethon==1.38.1
 pystyle==2.9
 colorama==0.4.6
 opentele==1.15.1
 qrcode==7.4.2
+>>>>>>> 52bae208c01c84fa139228c18362d9264015306d
 aiohttp==3.9.3
